@@ -10,62 +10,37 @@ This is an unofficial summary of the [ScanCode LicenseDB](https://scancode-licen
 
 ## Information
 
-### ScanCode LicenseDB - Version
+### ScanCode LicenseDB - Summary
 
-- [Release Date](scancode-licensedb-version-release-date.md)
-- [Count](scancode-licensedb-version-count.md)
+- [Count](scancode-licensedb-summary-count.md)
+- [Release Date](scancode-licensedb-summary-release-date.md)
+- [Release Version](scancode-licensedb-summary-release-version.md)
+- [SPDX License List Version](scancode-licensedb-summary-spdx-version.md)
 
-### ScanCode LicenseDB - License
+### ScanCode LicenseDB - Normal
 
-- [Link](scancode-licensedb-license-link.md)
-<!--
-- [Release Version](scancode-licensedb-license-release-version.md)
--->
+- [Count](scancode-licensedb-normal-count.md)
+- [Release Version](scancode-licensedb-normal-release-version.md)
 
-### ScanCode LicenseDB Exceptions - Version
+### ScanCode LicenseDB - Normal Exceptions
 
-- [Count](scancode-licensedb-exceptions-version-count.md)
+- [Count](scancode-licensedb-normal-exceptions-count.md)
+- [Release Version](scancode-licensedb-normal-exceptions-release-version.md)
 
-### ScanCode LicenseDB Exceptions - License
+### ScanCode LicenseDB - SPDX
 
-- [Link](scancode-licensedb-exceptions-license-link.md)
-<!--
-- [Release Version](scancode-licensedb-exceptions-license-release-version.md)
--->
+- [Count](scancode-licensedb-spdx-count.md)
+- [Release Version](scancode-licensedb-spdx-release-version.md)
 
-### ScanCode LicenseDB - SPDX - Version
+### ScanCode LicenseDB - SPDX Exceptions
 
-- [SPDX License List Version](scancode-licensedb-version-spdx-license-list-version.md)
-- [Count](scancode-licensedb-spdx-version-count.md)
+- [Count](scancode-licensedb-spdx-exceptions-count.md)
+- [Release Version](scancode-licensedb-spdx-exceptions-release-version.md)
 
-### ScanCode LicenseDB - SPDX - License
+### ScanCode LicenseDB - Generic
 
-- [Link](scancode-licensedb-spdx-license-link.md)
-<!--
-- [Release Version](scancode-licensedb-spdx-license-release-version.md)
--->
-
-### ScanCode LicenseDB - SPDX Exceptions - Version
-
-- [Count](scancode-licensedb-spdx-exceptions-version-count.md)
-
-### ScanCode LicenseDB - SPDX Exceptions - License
-
-- [Link](scancode-licensedb-spdx-exceptions-license-link.md)
-<!--
-- [Release Version](scancode-licensedb-spdx-exceptions-license-release-version.md)
--->
-
-### ScanCode LicenseDB - Generic - Version
-
-- [Count](scancode-licensedb-generic-version-count.md)
-
-### ScanCode LicenseDB - Generic - License
-
-- [Link](scancode-licensedb-generic-license-link.md)
-<!--
-- [Release Version](scancode-licensedb-generic-license-release-version.md)
--->
+- [Count](scancode-licensedb-generic-count.md)
+- [Release Version](scancode-licensedb-generic-release-version.md)
 
 ## Tools
 

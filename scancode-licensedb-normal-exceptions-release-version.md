@@ -1,0 +1,130 @@
+# ScanCode LicenseDB - Normal Exceptions - Release Version
+
+### Exception
+
+| Short Name | Key | Release |
+|------------|-----|---------|
+| [Alfresco FLOSS Exception v0.5](https://scancode-licensedb.aboutcode.org/alfresco-exception-0.5.html) | alfresco-exception-0.5 | 3.1.0 |
+| [Apromore Exception to GPL 2.0 or later](https://scancode-licensedb.aboutcode.org/apromore-exception-2.0.html) | apromore-exception-2.0 | 32.4.0 |
+| [Aptana exception to GPL 3.0](https://scancode-licensedb.aboutcode.org/aptana-exception-3.0.html) | aptana-exception-3.0 | 2.9.2 |
+| [ASN1SCC Exception to GPL-2.0](https://scancode-licensedb.aboutcode.org/asn1cc-exception-gpl-2.0.html) | asn1cc-exception-gpl-2.0 | 32.4.1 |
+| [AutoOpts exception to GPL 2.0 or later](https://scancode-licensedb.aboutcode.org/autoopts-exception-2.0.html) | autoopts-exception-2.0 | 2.9.2 |
+| [Avisynth C Interface Exception](https://scancode-licensedb.aboutcode.org/avisynth-c-interface-exception.html) | avisynth-c-interface-exception | 2.9.8 |
+| [Avisynth Linking Exception](https://scancode-licensedb.aboutcode.org/avisynth-linking-exception.html) | avisynth-linking-exception | 2.9.8 |
+| [Bacula exception to AGPL 3.0](https://scancode-licensedb.aboutcode.org/bacula-exception.html) | bacula-exception | 2.9.2 |
+| [Bash exception to GPL](https://scancode-licensedb.aboutcode.org/bash-exception-gpl.html) | bash-exception-gpl | 21.2.25 |
+| [Broadcom Linking Exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/broadcom-linking-exception-2.0.html) | broadcom-linking-exception-2.0 | 2.9.2 |
+| [Broadcom Unmodified Linking Exception](https://scancode-licensedb.aboutcode.org/broadcom-unmodified-exception.html) | broadcom-unmodified-exception | 32.0.0rc1 |
+| [CiviCRM Exception to AGPL-3.0](https://scancode-licensedb.aboutcode.org/civicrm-exception-to-agpl-3.0.html) | civicrm-exception-to-agpl-3.0 | 32.0.7 |
+| [Clojure Exception to GPL-3.0](https://scancode-licensedb.aboutcode.org/clojure-exception-to-gpl-3.0.html) | clojure-exception-to-gpl-3.0 | 32.1.0 |
+| [CockroachDB Use Grant for BSL 1.1](https://scancode-licensedb.aboutcode.org/cockroachdb-use-grant-for-bsl-1.1.html) | cockroachdb-use-grant-for-bsl-1.1 | 3.1.0 |
+| [CodeLite Exception to GPL](https://scancode-licensedb.aboutcode.org/codelite-exception-to-gpl.html) | codelite-exception-to-gpl | 32.0.7 |
+| [Commons Clause](https://scancode-licensedb.aboutcode.org/commons-clause.html) | commons-clause | 2.9.3 |
+| [compuphase Linking Exception to Apache 2.0](https://scancode-licensedb.aboutcode.org/compuphase-linking-exception.html) | compuphase-linking-exception | 2.9.2 |
+| [CC+CAL](https://scancode-licensedb.aboutcode.org/corporate-accountability-commercial-1.1.html) | corporate-accountability-commercial-1.1 | 3.2.0rc1 |
+| [CUPS Apple OS Exception to GPL and LGPL](https://scancode-licensedb.aboutcode.org/cups-apple-os-exception.html) | cups-apple-os-exception | 30.0.0 |
+| [Cygwin exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/cygwin-exception-2.0.html) | cygwin-exception-2.0 | 2.9.2 |
+| [Cygwin exception to GPL 3.0 or later](https://scancode-licensedb.aboutcode.org/cygwin-exception-3.0.html) | cygwin-exception-3.0 | 2.9.2 |
+| [Cygwin exception to LGPL 3.0 or later](https://scancode-licensedb.aboutcode.org/cygwin-exception-lgpl-3.0-plus.html) | cygwin-exception-lgpl-3.0-plus | 2.9.2 |
+| [Kyoto Products FOSS License Exception v1.0.9](https://scancode-licensedb.aboutcode.org/dbmx-foss-exception-1.0.9.html) | dbmx-foss-exception-1.0.9 | 32.0.2 |
+| [Kyoto Products FOSS Library Linking Exception v1.0](https://scancode-licensedb.aboutcode.org/dbmx-linking-exception-1.0.html) | dbmx-linking-exception-1.0 | 32.0.2 |
+| [DRAKVUF Exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/drakvuf-exception-2.0.html) | drakvuf-exception-2.0 | 32.5.0 |
+| [DUNE exception to the GPL](https://scancode-licensedb.aboutcode.org/dune-exception.html) | dune-exception | 3.2.0rc1 |
+| [Ecma no patent notice](https://scancode-licensedb.aboutcode.org/ecma-no-patent.html) | ecma-no-patent | 3.0.0 |
+| [Ekiga exception to GPL 2.0 or later](https://scancode-licensedb.aboutcode.org/ekiga-exception-2.0-plus.html) | ekiga-exception-2.0-plus | 2.9.2 |
+| [Errbot exception](https://scancode-licensedb.aboutcode.org/errbot-exception.html) | errbot-exception | 2.9.0b1 |
+| [Far Manager exception to BSD-3-Clause](https://scancode-licensedb.aboutcode.org/far-manager-exception.html) | far-manager-exception | 2.9.2 |
+| [Fujion Clinical Exception to Apache 2.0](https://scancode-licensedb.aboutcode.org/fujion-exception-to-apache-2.0.html) | fujion-exception-to-apache-2.0 | 32.0.0rc3 |
+| [GCC compiler exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/gcc-compiler-exception-2.0.html) | gcc-compiler-exception-2.0 | 2.9.2 |
+| [GCC Runtime Library Exception v3.0](https://scancode-licensedb.aboutcode.org/gcc-exception-3.0.html) | gcc-exception-3.0 | 30.0.0 |
+| [Genode exception to AGPL 3.0](https://scancode-licensedb.aboutcode.org/genode-agpl-3.0-exception.html) | genode-agpl-3.0-exception | 2.9.3 |
+| [GeoServer exception to GPL 2.0 or later](https://scancode-licensedb.aboutcode.org/geoserver-exception-2.0-plus.html) | geoserver-exception-2.0-plus | 2.9.2 |
+| [Gigablast Exception to Apache 2.0](https://scancode-licensedb.aboutcode.org/gigablast-apache-2.0-exception.html) | gigablast-apache-2.0-exception | 32.4.1 |
+| [GStreamer exception to GPL 2.0 or later](https://scancode-licensedb.aboutcode.org/gstreamer-exception-2.0.html) | gstreamer-exception-2.0 | 2.9.8 |
+| [Ice exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/ice-exception-2.0.html) | ice-exception-2.0 | 2.9.2 |
+| [Javascript exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/javascript-exception-2.0.html) | javascript-exception-2.0 | 2.9.2 |
+| [KFQF Accepted GPL](https://scancode-licensedb.aboutcode.org/kfqf-accepted-gpl.html) | kfqf-accepted-gpl | 21.6.7 |
+| [Liberation Font Exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/liberation-font-exception.html) | liberation-font-exception | 3.1.0 |
+| [libticables2 exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/libticables2-exception-gpl-2.0.html) | libticables2-exception-gpl-2.0 | 32.4.1 |
+| [GNU Libtool exception to LGPL](https://scancode-licensedb.aboutcode.org/libtool-exception-lgpl.html) | libtool-exception-lgpl | 32.0.7 |
+| [libwebsockets exception to LGPL 2.1](https://scancode-licensedb.aboutcode.org/libwebsockets-exception.html) | libwebsockets-exception | 2.9.2 |
+| [Linking exception to GPL 2.0 or later](https://scancode-licensedb.aboutcode.org/linking-exception-2.0-plus.html) | linking-exception-2.0-plus | 2.9.2 |
+| [Linking exception to LGPL 2.1 or later](https://scancode-licensedb.aboutcode.org/linking-exception-2.1-plus.html) | linking-exception-2.1-plus | 2.9.2 |
+| [Linking exception to LGPL 2.0 or later](https://scancode-licensedb.aboutcode.org/linking-exception-lgpl-2.0-plus.html) | linking-exception-lgpl-2.0-plus | 2.9.8 |
+| [LMBench exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/lmbench-exception-2.0.html) | lmbench-exception-2.0 | 2.9.2 |
+| [LZMA SDK 2006 Exception](https://scancode-licensedb.aboutcode.org/lzma-sdk-2006-exception.html) | lzma-sdk-2006-exception | 1.4.0 |
+| [MAgPIE Exception to AGPL 3.0](https://scancode-licensedb.aboutcode.org/magpie-exception-1.0.html) | magpie-exception-1.0 | 3.2.0rc1 |
+| [MakeHuman License](https://scancode-licensedb.aboutcode.org/make-human-exception.html) | make-human-exception | 2.9.0b1 |
+| [Mini-XML exception to LGPL 2.0](https://scancode-licensedb.aboutcode.org/mini-xml-exception-lgpl-2.0.html) | mini-xml-exception-lgpl-2.0 | 2.9.2 |
+| [MLDonkey Exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/mldonkey-exception-gpl-2.0.html) | mldonkey-exception-gpl-2.0 | 32.4.1 |
+| [MuseScore Exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/musescore-exception-gpl-2.0.html) | musescore-exception-gpl-2.0 | 32.4.1 |
+| [musl attribution exception](https://scancode-licensedb.aboutcode.org/musl-exception.html) | musl-exception | 2.9.0b1 |
+| [MySQL Connector ODBC exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/mysql-connector-odbc-exception-2.0.html) | mysql-connector-odbc-exception-2.0 | 2.9.2 |
+| [MySQL FLOSS exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/mysql-floss-exception-2.0.html) | mysql-floss-exception-2.0 | 2.9.2 |
+| [MySQL linking exception 2018](https://scancode-licensedb.aboutcode.org/mysql-linking-exception-2018.html) | mysql-linking-exception-2018 | 3.2.0rc1 |
+| [NAnt exception to GPL 2.0 or later](https://scancode-licensedb.aboutcode.org/nant-exception-2.0-plus.html) | nant-exception-2.0-plus | 2.9.2 |
+| [NICTA Exception to AGPL](https://scancode-licensedb.aboutcode.org/nicta-exception.html) | nicta-exception | 3.2.0rc1 |
+| [Nmap NPSL Exception 0.92](https://scancode-licensedb.aboutcode.org/npsl-exception-0.92.html) | npsl-exception-0.92 | 32.0.0rc1 |
+| [Nmap NPSL Exception 0.93](https://scancode-licensedb.aboutcode.org/npsl-exception-0.93.html) | npsl-exception-0.93 | 21.2.25 |
+| [Nmap NPSL Exception 0.94](https://scancode-licensedb.aboutcode.org/npsl-exception-0.94.html) | npsl-exception-0.94 | 32.0.0rc1 |
+| [Nmap NPSL Exception 0.95](https://scancode-licensedb.aboutcode.org/npsl-exception-0.95.html) | npsl-exception-0.95 | 32.0.7 |
+| [OpenBD exception to GPL 3.0](https://scancode-licensedb.aboutcode.org/openbd-exception-3.0.html) | openbd-exception-3.0 | 2.9.2 |
+| [OpenJDK Classpath exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/openjdk-classpath-exception-2.0.html) | openjdk-classpath-exception-2.0 | 2.9.2 |
+| [OpenJDK Exception](https://scancode-licensedb.aboutcode.org/openjdk-exception.html) | openjdk-exception | 2.1.0 |
+| [Open Motif exception to GPL 2.0 or later](https://scancode-licensedb.aboutcode.org/openmotif-exception-2.0-plus.html) | openmotif-exception-2.0-plus | 2.9.2 |
+| [OpenMRS Exception to MPL-2.0](https://scancode-licensedb.aboutcode.org/openmrs-exception-to-mpl-2.0.html) | openmrs-exception-to-mpl-2.0 | 32.0.0rc3 |
+| [OpenSC OpenSSL linking exception GPL in OpenPace](https://scancode-licensedb.aboutcode.org/opensc-openssl-openpace-exception-gpl.html) | opensc-openssl-openpace-exception-gpl | 31.0.0b1 |
+| [OpenSSL exception to AGPL 3.0 - Monit style](https://scancode-licensedb.aboutcode.org/openssl-exception-agpl-3.0-monit.html) | openssl-exception-agpl-3.0-monit | 21.7.30 |
+| [OpenSSL exception to AGPL 3.0 or later](https://scancode-licensedb.aboutcode.org/openssl-exception-agpl-3.0-plus.html) | openssl-exception-agpl-3.0-plus | 3.2.0rc1 |
+| [OpenSSL exception to AGPL 3.0](https://scancode-licensedb.aboutcode.org/openssl-exception-agpl-3.0.html) | openssl-exception-agpl-3.0 | 2.9.2 |
+| [OpenSSL exception to GPL 2.0 or later](https://scancode-licensedb.aboutcode.org/openssl-exception-gpl-2.0-plus.html) | openssl-exception-gpl-2.0-plus | 2.9.2 |
+| [OpenSSL exception to LGPL 2.0 or later](https://scancode-licensedb.aboutcode.org/openssl-exception-lgpl-2.0-plus.html) | openssl-exception-lgpl-2.0-plus | 2.9.8 |
+| [OpenSSL exception to LGPL 3.0 or later](https://scancode-licensedb.aboutcode.org/openssl-exception-lgpl-3.0-plus.html) | openssl-exception-lgpl-3.0-plus | 2.9.2 |
+| [OpenSSL exception to LGPL](https://scancode-licensedb.aboutcode.org/openssl-exception-lgpl.html) | openssl-exception-lgpl | 31.0.0b1 |
+| [OpenSSL exception to SSPL](https://scancode-licensedb.aboutcode.org/openssl-exception-mongodb-sspl.html) | openssl-exception-mongodb-sspl | 2.9.4 |
+| [Patent Disclaimer for OpenSSL](https://scancode-licensedb.aboutcode.org/openssl-nokia-psk-contribution.html) | openssl-nokia-psk-contribution | 3.0.0 |
+| [Oracle MySQL FOSS exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/oracle-mysql-foss-exception-2.0.html) | oracle-mysql-foss-exception-2.0 | 2.9.2 |
+| [Oracle OpenJDK classpath exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/oracle-openjdk-classpath-exception-2.0.html) | oracle-openjdk-classpath-exception-2.0 | 2.9.2 |
+| [PhotoPrism Exception to AGPL-3.0](https://scancode-licensedb.aboutcode.org/photoprism-exception-3.0.html) | photoprism-exception-3.0 | 32.5.0 |
+| [pretalx exception to AGPL-3.0](https://scancode-licensedb.aboutcode.org/pretalx-exception-3.0.html) | pretalx-exception-3.0 | 32.5.0 |
+| [pretix exception to AGPL-3.0](https://scancode-licensedb.aboutcode.org/pretix-exception-3.0.html) | pretix-exception-3.0 | 32.5.0 |
+| [ProGuard exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/proguard-exception-2.0.html) | proguard-exception-2.0 | 2.9.2 |
+| [QCAD Exception to GPL](https://scancode-licensedb.aboutcode.org/qcad-exception-gpl.html) | qcad-exception-gpl | 21.2.25 |
+| [QSkinny Exception to LGPL 2.1](https://scancode-licensedb.aboutcode.org/qskinny-exception-lgpl-2.1.html) | qskinny-exception-lgpl-2.1 | 32.0.7 |
+| [Qt Linking Exception to GPL 2.0 or later](https://scancode-licensedb.aboutcode.org/qt-kde-linking-exception.html) | qt-kde-linking-exception | 2.9.2 |
+| [Qt-QCA exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/qt-qca-exception-2.0.html) | qt-qca-exception-2.0 | 2.9.2 |
+| [ReactOS Exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/reactos-exception-gpl-2.0.html) | reactos-exception-gpl-2.0 | 32.4.1 |
+| [RTEMS exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/rtems-exception-2.0.html) | rtems-exception-2.0 | 32.4.1 |
+| [RXTX exception to LGPL 2.1](https://scancode-licensedb.aboutcode.org/rxtx-exception-lgpl-2.1.html) | rxtx-exception-lgpl-2.1 | 2.9.2 |
+| [Sencha GPL 3.0 Exception for Applications](https://scancode-licensedb.aboutcode.org/sencha-app-floss-exception.html) | sencha-app-floss-exception | 2.0.0.rc1 |
+| [Sencha GPL 3.0 Exception for Development](https://scancode-licensedb.aboutcode.org/sencha-dev-floss-exception.html) | sencha-dev-floss-exception | 2.0.0.rc1 |
+| [Signal Exception to GPL 3.0](https://scancode-licensedb.aboutcode.org/signal-gpl-3.0-exception.html) | signal-gpl-3.0-exception | 31.0.0b1 |
+| [SnapEDA Design Exception 1.0](https://scancode-licensedb.aboutcode.org/snapeda-design-exception-1.0.html) | snapeda-design-exception-1.0 | 31.0.0b1 |
+| [Spell-Checker exception to LGPL 2.1 or later](https://scancode-licensedb.aboutcode.org/spell-checker-exception-lgpl-2.1-plus.html) | spell-checker-exception-lgpl-2.1-plus | 2.9.2 |
+| [strongSwan exception to GPL](https://scancode-licensedb.aboutcode.org/strongswan-exception.html) | strongswan-exception | 2.9.9 |
+| [Subcommander exception to GPL 2.0 or later](https://scancode-licensedb.aboutcode.org/subcommander-exception-2.0-plus.html) | subcommander-exception-2.0-plus | 2.9.2 |
+| [Syntext Serna exception to GPL 2.0 or GPL 3.0](https://scancode-licensedb.aboutcode.org/syntext-serna-exception-1.0.html) | syntext-serna-exception-1.0 | 2.9.2 |
+| [Trolltech GPL Exception 1.0](https://scancode-licensedb.aboutcode.org/trolltech-gpl-exception-1.0.html) | trolltech-gpl-exception-1.0 | 3.2.0rc1 |
+| [Trolltech GPL Exception 1.1](https://scancode-licensedb.aboutcode.org/trolltech-gpl-exception-1.1.html) | trolltech-gpl-exception-1.1 | 3.2.0rc1 |
+| [Trolltech GPL Exception 1.2](https://scancode-licensedb.aboutcode.org/trolltech-gpl-exception-1.2.html) | trolltech-gpl-exception-1.2 | 3.1.0 |
+| [Unlimited Binary Use Exception](https://scancode-licensedb.aboutcode.org/unlimited-binary-use-exception.html) | unlimited-binary-use-exception | 32.0.0rc1 |
+| [Unlimited linking exception to GPL](https://scancode-licensedb.aboutcode.org/unlimited-linking-exception-gpl.html) | unlimited-linking-exception-gpl | 2.9.8 |
+| [Unlimited linking exception to LGPL](https://scancode-licensedb.aboutcode.org/unlimited-linking-exception-lgpl.html) | unlimited-linking-exception-lgpl | 2.9.2 |
+| [UPX exception to GPL 2.0 or later](https://scancode-licensedb.aboutcode.org/upx-exception-2.0-plus.html) | upx-exception-2.0-plus | 2.9.2 |
+| [VCV Rack NC Exception to GPL 3.0](https://scancode-licensedb.aboutcode.org/vcvrack-exception-to-gpl-3.0.html) | vcvrack-exception-to-gpl-3.0 | 32.1.0 |
+| [Viewflow Library Exception to AGPL 3.0](https://scancode-licensedb.aboutcode.org/viewflow-agpl-3.0-exception.html) | viewflow-agpl-3.0-exception | 3.2.0rc1 |
+| [VYM Exception to GPL 2.0](https://scancode-licensedb.aboutcode.org/vym-exception-2.0.html) | vym-exception-2.0 | 32.5.0 |
+| [Xenomai GPL Exception](https://scancode-licensedb.aboutcode.org/xenomai-gpl-exception.html) | xenomai-gpl-exception | 30.0.0 |
+| [ZeroMQ exception to LGPL 3.0](https://scancode-licensedb.aboutcode.org/zeromq-exception-lgpl-3.0.html) | zeromq-exception-lgpl-3.0 | 2.9.2 |
+| [Zrythm Exception to AGPL 3.0](https://scancode-licensedb.aboutcode.org/zrythm-exception-agpl-3.0.html) | zrythm-exception-agpl-3.0 | 32.0.0rc1 |
+
+## Deprecated
+
+| Short Name | Key | Release | Deprecated | Replaced By |
+|------------|-----|---------|------------|-------------|
+| [Broadcom Linking Exception if unmodified](https://scancode-licensedb.aboutcode.org/broadcom-linking-unmodified.html) | broadcom-linking-unmodified | 2.2.0 | 32.0.0rc1 | [broadcom-unmodified-exception](https://scancode-licensedb.aboutcode.org/broadcom-unmodified-exception.html) |
+| [Unlimited Binary Linking Exception](https://scancode-licensedb.aboutcode.org/unlimited-binary-linking.html) | unlimited-binary-linking | 2.0.0.rc3 | 32.0.0rc1 | [unlimited-binary-use-exception](https://scancode-licensedb.aboutcode.org/unlimited-binary-use-exception.html) |
+
+## Reference
+
+- [ScanCode LicenseDB Site](https://scancode-licensedb.aboutcode.org/index.html)
