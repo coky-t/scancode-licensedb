@@ -1,6 +1,6 @@
 # ScanCode LicenseDB - SPDX - Release Version
 
-|| Short Name | Key | Release | SPDX Identifier |
+| Short Name | Key | Release | SPDX Identifier |
 |------------|-----|---------|-----------------|
 | [3D Slicer License 1.0](https://scancode-licensedb.aboutcode.org/3dslicer-1.0.html) | 3dslicer-1.0 | 2.9.2 | [3D-Slicer-1.0](https://spdx.org/licenses/3D-Slicer-1.0.html) |
 | [Abstyles License](https://scancode-licensedb.aboutcode.org/abstyles.html) | abstyles | 1.0.0 | [Abstyles](https://spdx.org/licenses/Abstyles.html) |
