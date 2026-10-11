@@ -14,33 +14,39 @@ This is an unofficial summary of the [ScanCode LicenseDB](https://scancode-licen
 
 - [Count](scancode-licensedb-summary-count.md)
 - [Release Date](scancode-licensedb-summary-release-date.md)
-- [Release Version](scancode-licensedb-summary-release-version.md)
 - [SPDX License List Version](scancode-licensedb-summary-spdx-version.md)
+- [Release Version](scancode-licensedb-summary-release-version.md)
+- [Ignorable, Minimum Coverage](scancode-licensedb-summary-ignorable-mincov.md)
 
 ### ScanCode LicenseDB - Normal
 
 - [Count](scancode-licensedb-normal-count.md)
 - [Release Version](scancode-licensedb-normal-release-version.md)
+- [Ignorable, Minimum Coverage](scancode-licensedb-normal-ignorable-mincov.md)
 
 ### ScanCode LicenseDB - Normal Exceptions
 
 - [Count](scancode-licensedb-normal-exceptions-count.md)
 - [Release Version](scancode-licensedb-normal-exceptions-release-version.md)
+- [Ignorable, Minimum Coverage](scancode-licensedb-normal-exceptions-ignorable-mincov.md)
 
 ### ScanCode LicenseDB - SPDX
 
 - [Count](scancode-licensedb-spdx-count.md)
 - [Release Version](scancode-licensedb-spdx-release-version.md)
+- [Ignorable, Minimum Coverage](scancode-licensedb-spdx-ignorable-mincov.md)
 
 ### ScanCode LicenseDB - SPDX Exceptions
 
 - [Count](scancode-licensedb-spdx-exceptions-count.md)
 - [Release Version](scancode-licensedb-spdx-exceptions-release-version.md)
+- [Ignorable, Minimum Coverage](scancode-licensedb-spdx-exceptions-ignorable-mincov.md)
 
 ### ScanCode LicenseDB - Generic
 
 - [Count](scancode-licensedb-generic-count.md)
 - [Release Version](scancode-licensedb-generic-release-version.md)
+- [Ignorable, Minimum Coverage](scancode-licensedb-generic-ignorable-mincov.md)
 
 ## Tools
 
