@@ -1,0 +1,3 @@
+SPDX-License-Identifier: LicenseRef-scancode-3com-microcode
+License: 3Com Microcode
+3Com Microcode License

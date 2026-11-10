@@ -1,0 +1,6 @@
+SPDX-License-Identifier\W*(?:[A-Za-z0-9\+\-\.]+\W*(?:AND\W*|OR\W*|WITH\W*))*LicenseRef-scancode-4suite-1\.1(?!\w)
+(?:MODULE_LICENSE|__license__)\W*4Suite\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1(?!\w)
+Licen[sc]e(?:\W*(magnet.{1,100})?|d\W*(?:as|under)\W*(?:the\W*)?(?:terms\W*(?:and\W*conditions\W*)?of\W*)?)4Suite\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1(?!\w)
+(?<!\w)4Suite\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1\W*Licen[sc]e
+(?<!\w)4Suite\W*Licen[sc]e\W*(?:v(?:er(?:sion|\.)?|\.)?\W*)?1\.1(?!\w)
+v(?:er(?:sion|\.)?|\.)?\W*1\.1\W*of\W*(?:the\W*)?4Suite\W*Licen[sc]e
