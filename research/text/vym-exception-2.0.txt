@@ -1,0 +1,13 @@
+VYM - View Your Mind
+
+In addition, as a special exception, Uwe Drechsel
+gives permission to link the code of this program with the QT
+libraries from trolltech.com (or with modified versions of QT that
+use the same license as QT), and distribute linked combinations
+including the two. You must obey the GNU General Public License in
+all respects for all of the code used other than QT. If you modify
+this file, you may extend this exception to your version of the
+file, but you are not obligated to do so. If you do not wish to do
+so, delete this exception statement from your version.
+
+Uwe Drechsel can be contacted at <vym@insilmaril.de>
