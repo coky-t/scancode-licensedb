@@ -1,0 +1,1 @@
+https://scancode-licensedb.aboutcode.org/clojure-exception-to-gpl-3.0.html
