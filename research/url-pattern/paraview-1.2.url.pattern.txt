@@ -1,0 +1,1 @@
+https?://scancode-licensedb\.aboutcode\.org/paraview-1\.2\.html

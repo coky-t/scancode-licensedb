@@ -1,0 +1,1 @@
+https?://scancode-licensedb\.aboutcode\.org/php-2\.0\.2\.html
