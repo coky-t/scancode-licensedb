@@ -1,0 +1,1 @@
+https?://scancode-licensedb\.aboutcode\.org/snmp4j-smi\.html

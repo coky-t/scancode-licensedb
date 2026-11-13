@@ -1,0 +1,1 @@
+https?://scancode-licensedb\.aboutcode\.org/sencha-dev-floss-exception\.html
