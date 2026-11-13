@@ -1,0 +1,1 @@
+https?://scancode-licensedb\.aboutcode\.org/rxtx-exception-lgpl-2\.1\.html
