@@ -1,0 +1,1 @@
+https?://scancode-licensedb\.aboutcode\.org/libsrv-1\.0\.2\.html
