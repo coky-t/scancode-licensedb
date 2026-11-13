@@ -1,0 +1,1 @@
+https?://scancode-licensedb\.aboutcode\.org/nant-exception-2\.0-plus\.html

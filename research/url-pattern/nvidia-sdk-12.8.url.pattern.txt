@@ -1,0 +1,1 @@
+https?://scancode-licensedb\.aboutcode\.org/nvidia-sdk-12\.8\.html
