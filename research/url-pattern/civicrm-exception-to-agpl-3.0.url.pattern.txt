@@ -1,0 +1,1 @@
+https?://scancode-licensedb\.aboutcode\.org/civicrm-exception-to-agpl-3\.0\.html
