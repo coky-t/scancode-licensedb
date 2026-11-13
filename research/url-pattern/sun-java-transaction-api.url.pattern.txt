@@ -1,0 +1,1 @@
+https?://scancode-licensedb\.aboutcode\.org/sun-java-transaction-api\.html
