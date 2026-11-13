@@ -1,0 +1,1 @@
+https?://scancode-licensedb\.aboutcode\.org/cockroachdb-use-grant-for-bsl-1\.1\.html

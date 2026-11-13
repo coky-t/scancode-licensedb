@@ -1,0 +1,1 @@
+https?://scancode-licensedb\.aboutcode\.org/cygwin-exception-lgpl-3\.0-plus\.html
