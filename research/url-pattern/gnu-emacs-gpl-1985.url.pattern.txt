@@ -1,0 +1,1 @@
+https?://scancode-licensedb\.aboutcode\.org/gnu-emacs-gpl-1985\.html
