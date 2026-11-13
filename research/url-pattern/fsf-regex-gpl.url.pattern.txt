@@ -1,0 +1,1 @@
+https?://scancode-licensedb\.aboutcode\.org/fsf-regex-gpl\.html
